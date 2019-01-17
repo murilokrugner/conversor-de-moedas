@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 const request =
-    "https://api.hgbrasil.com/finance?format=json-cors&key=97526a28";
+    "link da API utilizada";
 void main() async {
   runApp(MaterialApp(title: 'Conversor', home: Home(), theme: ThemeData(
       hintColor: Colors.amber,
